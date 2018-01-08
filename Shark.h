@@ -1,5 +1,5 @@
 #pragma once
-//Author: Lee Owens
+//Author: Lee Owens & Jessica Moore 
 //Class: Shark, used to create and maintain Shark objects 
 
 class Shark
